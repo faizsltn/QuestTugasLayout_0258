@@ -68,3 +68,14 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 backgroundColor = colorResource(id = R.color.green_card)
             )
         }
+
+        // Footer
+        Text(
+            text = stringResource(id = R.string.copy),
+            fontSize = 12.sp,
+            modifier = Modifier
+                .align(Alignment.BottomCenter)
+                .padding(bottom = 16.dp)
+        )
+    }
+}
