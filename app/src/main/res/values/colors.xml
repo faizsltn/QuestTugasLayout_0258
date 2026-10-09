@@ -12,3 +12,8 @@
     <color name="purple_card">#6B42C8</color>
     <color name="blue_card">#0002FF</color>
     <color name="green_card">#006B08</color>
+
+    <!-- Warna Teks khusus -->
+    <color name="yellow_text">#FFEB3B</color>
+    <color name="cyan_text">#00E5FF</color>
+</resources>
