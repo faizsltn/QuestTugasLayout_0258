@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tugas 3 - Composable Layout 2</string>
-</resources>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
