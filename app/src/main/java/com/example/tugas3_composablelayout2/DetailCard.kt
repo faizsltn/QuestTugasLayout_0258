@@ -25,3 +25,9 @@ fun DetailCard(
     noHp: String? = null,
     fontFamily: FontFamily = FontFamily.Default
 ) {
+    Card(
+        modifier = modifier
+            .fillMaxWidth()
+            .padding(horizontal = 16.dp, vertical = 6.dp),
+        colors = CardDefaults.cardColors(containerColor = backgroundColor)
+    ) {
