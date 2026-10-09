@@ -45,3 +45,8 @@ app/src/main/java/com/.../
 ├── MainActivity.kt        # Entry point aplikasi
 ├── DetailCard.kt          # Komponen UI Reusable
 └── ActivitasPertama.kt    # Layout Screen Utama & Header/Footer
+
+
+## 👨‍💻 Identitas Mahasiswa
+Nama : Faiz Sulthon Daud Muhammad
+NIM : 20240140258
