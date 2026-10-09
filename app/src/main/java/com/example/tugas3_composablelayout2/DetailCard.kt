@@ -50,3 +50,10 @@ fun DetailCard(
                     .padding(horizontal = 12.dp),
                 horizontalAlignment = Alignment.Start
             ) {
+                Text(
+                    text = nama,
+                    fontSize = 20.sp,
+                    fontWeight = FontWeight.Bold,
+                    fontFamily = fontFamily,
+                    color = colorResource(id = R.color.white)
+                )
