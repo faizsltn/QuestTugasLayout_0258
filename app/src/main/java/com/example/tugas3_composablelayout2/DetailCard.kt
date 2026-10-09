@@ -65,3 +65,10 @@ fun DetailCard(
                         color = colorResource(id = R.color.cyan_text)
                     )
                 }
+
+                Text(
+                    text = alamat,
+                    fontSize = 14.sp,
+                    color = colorResource(id = R.color.yellow_text)
+                )
+            }
