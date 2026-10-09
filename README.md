@@ -47,6 +47,6 @@ app/src/main/java/com/.../
 └── ActivitasPertama.kt    # Layout Screen Utama & Header/Footer
 
 
-## 👨‍💻 Identitas Mahasiswa
+👨‍💻 Identitas Mahasiswa
 Nama : Faiz Sulthon Daud Muhammad
 NIM : 20240140258
