@@ -43,3 +43,11 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                 backgroundColor = colorResource(id = R.color.gray_card),
                 fontFamily = FontFamily.Cursive
             )
+
+            // Card 2
+            DetailCard(
+                nama = stringResource(id = R.string.nama_2),
+                noHp = stringResource(id = R.string.no_hp_2),
+                alamat = stringResource(id = R.string.alamat_2),
+                backgroundColor = colorResource(id = R.color.purple_card)
+            )
