@@ -38,3 +38,8 @@ fun DetailCard(
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.SpaceBetween
         ) {
+            Image(
+                painter = painterResource(id = R.drawable.logoumy),
+                contentDescription = null,
+                modifier = Modifier.size(60.dp)
+            )
